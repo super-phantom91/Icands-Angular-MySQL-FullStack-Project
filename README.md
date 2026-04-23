@@ -36,7 +36,7 @@ npm run seed:db [email-***@****.com] [password-******] // This is just an exampl
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/Super-Phantoms/Angular-Mysql.git
+$ git clone https://github.com/super-phantom91/Icands-Angular-MySQL-FullStack-Project.git
 $ cd project
 $ npm install
 ```
